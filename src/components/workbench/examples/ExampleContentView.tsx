@@ -51,7 +51,7 @@ class ExampleContentView extends React.Component<CounterProps, CounterState> {
 
   render(){
     const { name } = this.props;
-    const { count } = this.state;
+    const { count } = this.state; 
     
     return (
       <div>
