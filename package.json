@@ -22,7 +22,7 @@
     "@types/react-router-dom": "^5.1.5",
     "ag-grid-community": "^23.2.1",
     "ag-grid-react": "^23.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "circular-json": "^0.5.9",
     "date-fns": "^2.15.0",
     "react": "^16.13.1",
